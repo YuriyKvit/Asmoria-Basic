@@ -10,7 +10,7 @@
   "minimum-stability": "alpha",
   "require": {
     "php": ">=5.6.0",
-    "asmo/asmoria-fm": "*"
+    "asmo/asmoria-mf": "*"
   },
   "extra": {
     "asset-installer-paths": {
